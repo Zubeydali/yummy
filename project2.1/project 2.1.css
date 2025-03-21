@@ -167,7 +167,7 @@ border: none;
 .box4{
     height: 738px;
     width: 750px;
-   background-image: url(/img/Venetian-Bar-and-Restaurant-scaled.jpg);
+   background-image: url(./img/Venetian-Bar-and-Restaurant-scaled.jpg);
    display: flex;
    align-items: center;
    justify-content: center;
@@ -344,7 +344,7 @@ i{
 }
 
 .section5 .container{
-    background-image: url(/img/stats-bg.jpg);
+    background-image: url(./img/stats-bg.jpg);
     background-attachment: fixed;
     
     display: flex;
@@ -377,7 +377,7 @@ i{
 
 
 .img3{
-    background-image: url(/img/testimonials-1.jpg);
+    background-image: url(./img/testimonials-1.jpg);
     border-radius: 50%;
     width: 900px;
     height: 400px;
@@ -413,7 +413,7 @@ background-size: cover;
 
 .section9 .container{
     
-    background-image:url(/img/events-3.jpg);
+    background-image:url(./img/events-3.jpg);
     background-size: cover;
     
     height: 600px;
